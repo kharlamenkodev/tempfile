@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/kharlamenkodev/tempfile/blob/master/LICENSE)
 
 
-Sometimes there are situations when it is necessary to create a temporary file that should be deleted at the moment of leaving the scope of the function. **Tempfile** solve this;
+Sometimes there are situations when it is necessary to create a temporary file that should be deleted at the moment of leaving the scope of the function. **Tempfile** solve this.
 
 ### Build and install
 
